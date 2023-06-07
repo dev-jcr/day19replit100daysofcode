@@ -1,3 +1,4 @@
+#For loop. Calculate interest
 loan = 1000
 apr = 0.05
 for i in range(10):
